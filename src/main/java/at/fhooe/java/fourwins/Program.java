@@ -148,7 +148,7 @@ public class Program extends Application {
 		grid.add(reset, 0, 3, 7, 1);
 		
 		stage.setScene(scene);
-		stage.setTitle("Final Project Hackenberg");
+		stage.setTitle("Four Wins with JavaFX 3D");
 		stage.setMaximized(true);
 		stage.show();
 	}
